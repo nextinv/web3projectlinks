@@ -1,0 +1,241 @@
+{
+  "official_links": {
+    "website": "https://polygon.technology/",
+    "whitepaper": "https://polygon.technology/papers",
+    "documentation": "https://docs.polygon.technology/",
+    "forum": "https://forum.polygon.technology/",
+    "github": "https://github.com/maticnetwork"
+  },
+  "social_platforms": {
+    "discord": "https://discord.gg/7gahPeh",
+    "twitter": "https://twitter.com/0xPolygon",
+    "reddit": "https://www.reddit.com/r/maticnetwork/",
+    "community": "https://polygon.technology/community",
+    "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/pulse/",
+    "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+  },
+  "meta_data": [
+    {
+      "name": "CoinMarketCap",
+      "data": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/currencies/polygon/"
+        }
+      ]
+    },
+    {
+      "name": "CoinGecko",
+      "data": [
+        {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/polygon"
+        }
+      ]
+    },
+    {
+      "name": "DefiLlama",
+      "data": [
+        { "name": "DefiLlama", "url": "https://defillama.com/chain/Polygon" }
+      ]
+    },
+    {
+      "name": "DappRadar",
+      "data": [
+        { "name": "DappRadar", "url": "https://dappradar.com/chain/polygon" }
+      ]
+    },
+    {
+      "name": "CryptoCompare",
+      "data": [
+        {
+          "name": "CryptoCompare",
+          "url": "https://www.cryptocompare.com/coins/matic/overview"
+        }
+      ]
+    },
+    {
+      "name": "TradingView",
+      "data": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        }
+      ]
+    },
+    {
+      "name": "CoinDesk",
+      "data": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/price/polygon/"
+        }
+      ]
+    },
+    {
+      "name": "Investing",
+      "data": [
+        {
+          "name": "Investing",
+          "url": "https://www.investing.com/crypto/polygon/matic-usd"
+        }
+      ]
+    },
+    {
+      "name": "MarketWatch",
+      "data": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+        }
+      ]
+    },
+    {
+      "name": "Yahoo Finance",
+      "data": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        }
+      ]
+    },
+    {
+      "name": "explorers",
+      "data": [
+        {
+          "name": "Etherscan",
+          "url": "https://polygonscan.com/"
+        },
+        {
+          "name": "Blockchair",
+          "url": "https://blockchair.com/polygon"
+        },
+        {
+          "name": "Parsec",
+          "url": "https://parsec.fi/"
+        },
+        {
+          "name": "OKLink",
+          "url": "https://www.oklink.com/matic"
+        },
+        {
+          "name": "Ethplorer",
+          "url": "https://ethplorer.io/"
+        },
+        {
+          "name": "TokenView",
+          "url": "https://matic.tokenview.com/"
+        },
+        {
+          "name": "3xpl",
+          "url": "https://3xpl.com/polygon"
+        },
+        {
+          "name": "BlockSec",
+          "url": "https://phalcon.blocksec.com/explorer"
+        },
+        {
+          "name": "OpenChain",
+          "url": "https://openchain.xyz/trace"
+        },
+        {
+          "name": "Tenderly",
+          "url": "https://dashboard.tenderly.co/explorer"
+        },
+        {
+          "name": "Dedaub",
+          "url": "https://app.dedaub.com/?network=polygon"
+        }
+      ]
+    },
+    {
+      "name": "bridges",
+      "data": [
+        {
+          "name": "Layer Zero",
+          "url": "https://layerzero.network/"
+        },
+        {
+          "name": "Axelar",
+          "url": "https://axelar.network/"
+        },
+        {
+          "name": "Hop Protocol",
+          "url": "https://hop.exchange/"
+        },
+        {
+          "name": "Connext",
+          "url": "https://connext.network/"
+        },
+        {
+          "name": "Wormhole",
+          "url": "https://wormhole.com/"
+        },
+        {
+          "name": "Stargate",
+          "url": "https://stargate.finance/"
+        }
+      ]
+    },
+    {
+      "name": "bounty",
+      "data": [
+        {
+          "name": "Bug Bounty Program",
+          "url": "https://polygon.technology/bug-bounty/"
+        }
+      ]
+    },
+    {
+      "name": "grants",
+      "data": [
+        {
+          "name": "Polygon Grants",
+          "url": "https://polygon.technology/grants/"
+        }
+      ]
+    },
+    {
+      "name": "faucets",
+      "data": [
+        {
+          "name": "Alchemy",
+          "url": "https://faucet.polygon.technology/"
+        },
+        {
+          "name": "QuickNode",
+          "url": "https://faucet.quicknode.com/polygon"
+        },
+        {
+          "name": "All That Node",
+          "url": "https://www.allthatnode.com/faucet/polygon.dsrv"
+        },
+        {
+          "name": "Holesky PoW Faucet",
+          "url": "https://holesky-faucet.pk910.de/"
+        }
+      ]
+    },
+    {
+      "name": "rpcs",
+      "data": [
+        {
+          "name": "Chainlist",
+          "url": "https://chainlist.org/chain/137"
+        }
+      ]
+    },
+    {
+      "name": "wallets",
+      "data": [
+        {
+          "name": "Wallet Finder",
+          "url": "https://polygon.technology/wallets/find-wallet"
+        },
+        {
+          "name": "Metamask",
+          "url": "https://metamask.io/"
+        },
+        {
+          "name": "Safe",
+          "url":
